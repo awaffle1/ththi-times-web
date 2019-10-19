@@ -1,5 +1,3 @@
 # THTHI TIMES
-
-A NationStates Project.
-Why? I don't know.
-
+## Your center for Kalranian propaganda.
+### New issue and articles every Sunday
