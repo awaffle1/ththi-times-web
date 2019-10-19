@@ -2,7 +2,7 @@
 name: EDITOR/WRITER APPLICATION
 about: Apply to help on the NationStates newspaper
 title: ''
-labels: ''
+labels: staff application
 assignees: ''
 
 ---
