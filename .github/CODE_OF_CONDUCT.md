@@ -13,5 +13,6 @@ The provider has a right to post anything they like to the webpage. If the user 
 If a user harasses another on a issue or pull request, the provider has a right to:
 - Delete the aforementioned offensive comment
 - Report the user to Github
-- Report the user to United States law enforcement, if necessary
+- Report the user to United States law enforcement, if necessary<br>
+<br>
 If one of these happens to a user, the user's complaints will be ignored.
