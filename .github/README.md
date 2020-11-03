@@ -1,3 +1,3 @@
-# THTHI TIMES
-## Your center for Kalranian propaganda.
-### Basically Nationstates Today but more regional
+# THTHI Times - Old
+
+A archive of the old THTHI Times from 2019.
